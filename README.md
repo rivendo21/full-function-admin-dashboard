@@ -1,1 +1,1 @@
-https://full-function-admin-dashboard-v2-rivendo21s-projects.vercel.app/
+https://full-function-admin-dashboard-v2.vercel.app/
